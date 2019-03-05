@@ -3,25 +3,28 @@
 ## Features
 
 ### Blog
+- Unterseiten
 - Verfassen von Blogeinträgen 
 - Kategorien / Schlagwörter
 - WYSIWYG Editor [tiptap](https://github.com/scrumpy/tiptap)
 - Kommentarfunktion
 - Social Sharing (Twitter, Mastodon, Facebook, IG, etc.)
 - Versionshistorie
+- Suche
 
 ### Admin Bereich
+- Moderne Oberfläche zur Verwaltung
 - Theming
 - Nutzer Management
-- Moderne Oberfläche zur Verwaltung
-- OAuth2 (Login mit Twitter etc.)
 
 ### Architektur
 - Modularer Aufbau
 - Plugin System
 - Einfache Installation
 - Update Mechanismus
-- Spring Boot & Vue.js
+- Spring 5
+- Docker
+- Java 12 & Typescript
 
 ### Plugins
 - Video upload
