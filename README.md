@@ -6,7 +6,7 @@
 - Unterseiten
 - Verfassen von Blogeinträgen 
 - Kategorien / Schlagwörter
-- WYSIWYG Editor [tiptap](https://github.com/scrumpy/tiptap)
+- WYSIWYG Editor [prosemirror](http://prosemirror.net/)
 - Kommentarfunktion
 - Social Sharing (Twitter, Mastodon, Facebook, IG, etc.)
 - Versionshistorie
@@ -16,6 +16,7 @@
 - Moderne Oberfläche zur Verwaltung
 - Theming
 - Nutzer Management
+- Gruppen Management
 
 ### Architektur
 - Modularer Aufbau
