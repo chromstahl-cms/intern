@@ -1,4 +1,4 @@
-# Kloud-ms - the next generation CMS
+# chromstahl-cms - the next generation CMS
 
 ## Features
 
