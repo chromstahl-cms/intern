@@ -1,11 +1,27 @@
 # chromstahl-cms - the next generation CMS
 
+## TODO
+
+### Blog
+- Unterseiten
+- Kategorien / Schlagwörter / Suche
+- Versionshistorie
+- Social Sharing (Twitter, Mastodon, Facebook, IG, etc.)
+
+### Admin Bereich
+- Nutzer Management
+- Gruppen Management
+
+### Architektur
+- Update Mechanismus
+
 ## Features
+- Theming
 
 ### Blog
 - Unterseiten
 - Verfassen von Blogeinträgen 
-- Kategorien / Schlagwörter
+- Kategorien / Schlagwörter  / Suche
 - WYSIWYG Editor [prosemirror](http://prosemirror.net/)
 - Kommentarfunktion
 - Social Sharing (Twitter, Mastodon, Facebook, IG, etc.)
